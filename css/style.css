@@ -22,6 +22,7 @@ body {
 }
 .menu {
    list-style-type: none;
+   color: #fff;
    display: flex;
    margin: 0;
    padding-left: 17;
